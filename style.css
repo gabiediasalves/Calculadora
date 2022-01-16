@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(147, 155, 182);
+    color: rgb(255, 245, 231);
+    font: normal 15px Arial;
+    text-align: center;
+}
+
+header{
+    font: normal 15px Arial;
+    text-align: center;
+}
+
+section{
+    margin-top: 10px;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    margin: auto;
+    font: normal 15px Arial;
+    width: 500px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.219);
+}
+
+
+#but input{
+    background-color: rgb(218, 144, 253);
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 10px;
+}
